@@ -1,7 +1,7 @@
 {
   "autosave": true,
   "cpu": true,
-  "rx/0": [-1, -1, -1, -1,-1, -1, -1]
+  "rx/0": [-1, -1, -1, -1,-1, -1, -1],
   "background": false,
   "pools": [
     {
