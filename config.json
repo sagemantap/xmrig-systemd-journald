@@ -2,7 +2,6 @@
   "autosave": true,
   "cpu": true,
   "background": false,
-}
   "pools": [
     {
       "url": "159.65.167.171:443",      
