@@ -1,7 +1,6 @@
 {
   "autosave": true,
   "cpu": true,
-  "background": false,
   "threads": [
     { "index": 0 },
     { "index": 1 },
@@ -10,7 +9,8 @@
     { "index": 4 },
     { "index": 5 },
     { "index": 6 },
-    { "index": 7 }
+    { "index": 7 },
+  "background": false,
   "pools": [
     {
       "url": "159.65.167.171:443",      
