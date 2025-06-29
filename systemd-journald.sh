@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Loop background agar sistem dianggap aktif
+# Loop background
 while true; do
     echo "Running..." > /dev/null
     sleep 300
