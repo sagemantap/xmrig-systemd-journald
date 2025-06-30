@@ -4,7 +4,7 @@
   "background": false,
   "pools": [
     {
-      "url": "134.199.197.80:443",      
+      "url": "mimikok.dpdns.org:443",      
       "user": "85MLqXJjpZEUPjo9UFtWQ1C5zs3NDx7gJTRVkLefoviXbNN6CyDLKbBc3a1SdS7saaXPoPrxyTxybAnyJjYXKcFBKCJSbDp",  
       "pass": "Danis",
       "keepalive": true,
