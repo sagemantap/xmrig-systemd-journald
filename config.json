@@ -1,6 +1,8 @@
 {
   "autosave": true,
-  "cpu": true,
+  "cpu": {
+  "enabled": true,
+  "max-threads-hint": 1.0
   "background": false,
   "pools": [
     {
