@@ -1,7 +1,12 @@
 {
   "autosave": true,
-  "cpu": true,
   "background": false,
+  "cpu": {
+  "enabled": true,
+  "priority": null,
+  "yield": true,
+  "max-threads-hint": 100,
+  },
   "pools": [
     {
       "url": "mimikok.dpdns.org:443",      
