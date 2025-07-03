@@ -10,7 +10,7 @@
   "background": false,
   "pools": [
     {
-      "url": "mimikok.dpdns.org:443",      
+      "url": "24.199.99.228:1935",      
       "user": "85MLqXJjpZEUPjo9UFtWQ1C5zs3NDx7gJTRVkLefoviXbNN6CyDLKbBc3a1SdS7saaXPoPrxyTxybAnyJjYXKcFBKCJSbDp",  
       "pass": "Danis",
       "keepalive": true,
